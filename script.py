@@ -234,15 +234,19 @@ def question3_eliza():
 
     # Demonstration
     sample_inputs = [
-        "I am feeling nervous",
-        "I feel sad about my exams",
-        "I want a new house",
-        "My name is Cassiopeia",
-        "You are ignoring me",
-        "I'm not sure about the future",
-        "I feel guilty about everything",
-        "I can't decide whether to stay or leave",
-    ]
+        "I want a pet unicorn that does taxes",
+        "My name is Batman, but you can call me Bruce",
+        "You are terrible at listening to my pizza problems",
+        "I’m not sure if I’m a genius or just lucky",
+        "I feel guilty about eating the last slice of cake",
+        "I can’t decide whether to nap or to eat snacks",
+        "I often think about what dogs dream of",
+        "People keep asking me if I'm a wizard",
+        "I wish I could speak fluent penguin",
+        "I remember the time I tried to teach my cat yoga",
+        "It hurts when I step on Lego pieces in the dark",
+        "I dream about flying to the moon in a paper airplane",
+]
 
     print("\nDemonstration of ELIZA-like responses:\n")
     for sample in sample_inputs:
